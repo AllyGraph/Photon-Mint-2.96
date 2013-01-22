@@ -1,0 +1,5 @@
+Because Mint itself is a functional and an object-oriented language,
+some of the code for the Mint Interpreter and Virtual Machine is written
+in an object-oriented style (see Interpreter.java), and other parts, such
+as FileIO.java and any given subclass of BuiltinSub, will be written
+in a functional or lambda-based style.
